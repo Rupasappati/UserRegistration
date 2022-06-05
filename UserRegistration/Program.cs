@@ -64,7 +64,7 @@ namespace UserRegisterationProblem
 
             Console.WriteLine("--------------------------------------");
 
-            Console.ReadLine();
+            
         }
     }
 }
